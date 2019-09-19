@@ -22,7 +22,7 @@ In an update I want to make this compatible both with iOS 12 and the new iOS 13 
 ### Thanks
 
 Thank you for these fine individuals for sharing their knowledge:
-https://github.com/kharrison/Xcode-Templates
-https://useyourloaf.com/blog/creating-custom-xcode-project-templates/
-https://www.telerik.com/blogs/how-to-create-custom-project-templates-in-xcode-7
+- https://github.com/kharrison/Xcode-Templates
+- https://useyourloaf.com/blog/creating-custom-xcode-project-templates/
+- https://www.telerik.com/blogs/how-to-create-custom-project-templates-in-xcode-7
 
